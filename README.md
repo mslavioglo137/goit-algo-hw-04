@@ -1,6 +1,6 @@
 # goit-algo-hw-04
 
-Homework 4 for the GoIT Algorithms course.
+Homework 3-4 for the GoIT Algorithms course.
 
 ## Tasks
 
